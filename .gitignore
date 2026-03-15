@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+
+build/
+dist/
+
+tmp_verify.png
+word_cloud_output.png
+
+.DS_Store
+.idea/
+.vscode/
+.venv/

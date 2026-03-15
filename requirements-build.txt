@@ -1,0 +1,7 @@
+jieba
+matplotlib
+numpy
+Pillow
+PyInstaller
+PySide6
+wordcloud
